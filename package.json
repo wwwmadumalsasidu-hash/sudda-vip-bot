@@ -1,0 +1,8 @@
+{
+  "name": "sudda-vip-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
